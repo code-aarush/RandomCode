@@ -1,5 +1,5 @@
 # RandomCode
 All learning and/or practice experiences go in here INCLUDING
-New problems solved
-New algorithms learnt 
-Fun challenges done in free time
+/n New problems solved
+/n New algorithms learnt 
+/n Fun challenges done in free time

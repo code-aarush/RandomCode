@@ -8,5 +8,4 @@ def findNumbers(nums):
     return counter
 
 my_Arr = [23,234,45654,345,453,2345]
-
 print(findNumbers(my_Arr))

@@ -5,7 +5,7 @@ class student :
     def __init__(self) :
         self.name = ""
         self.registerNumber = 0
-        self.DOB = datetime.datetime.now()
+        self.DOB = datetime.datetime.now()  
         self.fullTime = True
 
 studentRecord = student()
